@@ -1,5 +1,5 @@
-![img of application](https://github.com/murraiscanlon/connection-cards/blob/master/nodes.png) # Connection Cards <br />
-
+![img of application](https://github.com/murraiscanlon/connection-cards/blob/master/nodes.png)<br />
+ # Connection Cards 
 
 
 ##  PURPOSE: ![img of application](https://github.com/murraiscanlon/group-project-calculator/blob/master/light-bulb32.png)
