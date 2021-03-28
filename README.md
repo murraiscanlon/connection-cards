@@ -1,4 +1,4 @@
-# Connection Cards ![img of application](https://github.com/murraiscanlon/connection-cards/blob/master/nodes.png)<br />
+![img of application](https://github.com/murraiscanlon/connection-cards/blob/master/nodes.png) # Connection Cards <br />
 
 
 
