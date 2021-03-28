@@ -1,4 +1,4 @@
-# Connection Cards ![img of application](https://github.com/murraiscanlon/group_generator/blob/master/images/group.png)<br />
+# Connection Cards ![img of application](https://github.com/murraiscanlon/connection-cards/blob/master/nodes.png)<br />
 
 
 
